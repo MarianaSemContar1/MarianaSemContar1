@@ -72,8 +72,8 @@
 ---
 
 <p align="center">
-  <img src="https://media1.tenor.com/m/enTgX2SQ0X0AAAAC/danganronpa-monkey-thinking.gif" width="45%" />
+  <img src="https://media1.tenor.com/m/enTgX2SQ0X0AAAAC/danganronpa-monkey-thinking.gif" width="45%" height="auto" alt="Monokuma Pensando" />
   &nbsp;&nbsp;
-  <img src="https://media1.tenor.com/m/OEldGaIYlEUAAAAC/kyoko-kirigiri.gif" width="45%" />
+  <img src="https://media1.tenor.com/m/OEldGaIYlEUAAAAC/kyoko-kirigiri.gif" width="45%" height="auto" alt="Kyoko Kirigiri" />
 </p>
 

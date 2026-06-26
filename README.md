@@ -16,4 +16,4 @@ Qualquer dúvida entre em contato
 <a href="mailto:o.mariana12@escola.pr.gov.br" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"/></a>
 
 
-![](https://media1.tenor.com/m/iLnWWElfvJwAAAAC/sayaka-maizono-thinking.gif)
+![](https://media1.tenor.com/m/enTgX2SQ0X0AAAAC/danganronpa-monkey-thinking.gif)

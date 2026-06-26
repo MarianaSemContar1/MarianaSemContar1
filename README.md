@@ -17,5 +17,5 @@ Qualquer dúvida entre em contato
 
 
 ![](https://media1.tenor.com/m/enTgX2SQ0X0AAAAC/danganronpa-monkey-thinking.gif)
-![](![](https://media1.tenor.com/m/enTgX2SQ0X0AAAAC/danganronpa-monkey-thinking.gif)
-)
+![](![](https://media1.tenor.com/m/OEldGaIYlEUAAAAC/kyoko-kirigiri.gif)
+
